@@ -19,7 +19,7 @@ body {
 	flex-direction: column;
 	min-height: 100vh;
 	color: #C75483;
-	background-image: linear-gradient(to bottom, #000000, #431e22, #82382f, #bd5c2d, #eb8c12);
+	background-image: linear-gradient(to bottom, #000000, #431e22, #82382f, #bd5c2d,  #bd5c2d, #82382f, #431e22, #000000);
 }
 
 header {
